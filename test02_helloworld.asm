@@ -1,6 +1,6 @@
 ; demo hello world
 
-assume cs:code, ds:data
+assume cs: code, ds: data
 
 data segment
     db 'Hello World!$'
